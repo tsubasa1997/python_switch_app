@@ -3,3 +3,6 @@
 
 flutter側のURL
 https://github.com/tsubasa1997/switch_app
+
+参考にしたサイト
+https://ponkichi.blog/smart-remocon/
