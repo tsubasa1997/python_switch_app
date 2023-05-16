@@ -4,5 +4,5 @@
 flutter側のURL
 https://github.com/tsubasa1997/switch_app
 
-参考にしたサイト
+参考にさせていただいたサイト
 https://ponkichi.blog/smart-remocon/
